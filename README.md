@@ -66,20 +66,16 @@ XyKey 对用户数据的原文导出功能做了增强，使用了 JSON 格式�
             "extra": []
         },
         {
-            "key": [
+            "name": "test2",
+            "account": "",
+            "password": "",
+            "password2": "9317",
+            "url": "",
+            "note": "www.github.com",
+            "extra": [
                 {
-                    "name": "test2",
-                    "account": "",
-                    "password": "",
-                    "password2": "9317",
-                    "url": "",
-                    "note": "www.github.com",
-                    "extra": [
-                        {
-                            "name": "custom",
-                            "content": "field"
-                        }
-                    ]
+                    "name": "custom",
+                    "content": "field"
                 }
             ]
         }
